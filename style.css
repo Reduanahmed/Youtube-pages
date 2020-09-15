@@ -1,0 +1,150 @@
+input:focus{
+    outline: none;
+}
+/* =========================== start hearder Area============================== */
+.header{
+    padding: 10px 15px;
+}
+.header-left span {
+    font-size: 20px;
+    margin-right: 20px;
+}
+.header-left{
+
+}
+.fab_48 {
+    display: inline-block;
+  
+}
+.fab_48 span{
+  
+}
+.fab_48 span {
+    font-weight: 700;
+    font-size: 19px;
+}
+
+.y-search input {
+    width: 620px;
+    padding: 5px 10px;
+    border: 1px solid #F2F2F2;
+}
+.y-search a{
+    color: #bbb5b5;
+}
+.y-search span {
+    background:#F2F2F2;
+    padding: 8px 28px;
+    margin-left: -5px;
+    border-radius: 0 5px 5px 0;
+}
+.header-right{}
+.header-right span {
+    font-size: 20px;
+    padding: 0 13px;
+    color: #7D7D7D;
+}
+/* ====================================section part======================== */
+.section-part{
+    padding: 10px 15px;
+}
+.ul-list ul{
+    border-top: 1px solid  #E5E5E5;
+    border-bottom:1px solid  #E5E5E5;
+    margin-left: 0;
+}
+.ul-list ul li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 10px;
+    padding: 10px 0px;
+}
+.ul-list ul li a {
+    display: block;
+    background: #E5E5E5;
+    padding: 5px 22px;
+    border-radius: 16px;
+    text-decoration: none;
+    color: #464646;
+    font-size: 14px;
+}
+.activess{
+    background: #606060 !important;
+    color: #fff !important;
+}
+.bg-1st {
+    background: #d4d2d2;
+    margin-top: 10px;
+}
+
+.section-left span {
+    font-size: 25px;
+    width: 48px;
+    display: inline-block;
+    height: 27px;
+    margin-right: 0px;
+    color: gray;
+}
+.section-left:nth-child(1) span{
+
+    color: red;
+}
+.section-left:hover{
+    background: #E5E5E5;
+}
+
+/* box */
+
+.box {
+    cursor: pointer;
+    margin: 10px 0;
+}
+.y-content h5 {
+    font-size: 16px;
+    font-weight: 500;
+}
+.y-content h6 {
+    font-size: 15px;
+    color: gray;
+}
+.y-content span {
+    font-size: 15px;
+    color: gray;
+}
+.section-part h4 {
+    font-size: 16px;
+    padding: 0 34px;
+    color: gray;
+}
+.S-down img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.actives{
+    background: #d4d2d2;
+}
+.S-down:hover{
+    background: #e5e2e2;
+}
+.u-icon span {
+    font-size: 35px;
+}
+.u-icon{
+    width: 50px;
+    color: red;
+    margin-right: 15px;
+}
+.u-icon img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 323px;
+}
+.boxs{
+    flex-wrap: wrap;
+}
